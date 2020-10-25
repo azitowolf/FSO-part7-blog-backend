@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikp1YWNoMiIsImlkIjoiNWVkM2U5NjI2ZTYxZjhlOGZjNWVhMTExIiwiaWF0IjoxNTkwOTQ2MTY0fQ.-3xLUXCEqTbnji2NsmrXHQABsW3eew2uSLk_kmcZyEE
+
+{
+  "title": "3 things you didnt know about kale",
+  "url": "blogspot.com.html",
+  "likes": 1
+}
